@@ -5,6 +5,10 @@
 📊 Currently building portfolio projects in fintech, e-commerce, and healthcare.  
 🎯 Goal: Land my first data analysis role and keep learning every day!  
 📌 Fun fact: I love dashboards and storytelling through data visuals.
+## 📫 Contact Me
+
+- 📧 Email: [amarachiamankwe@gmail.com](mailto:amarachiamankwe@gmail.com)
+- 💼 LinkedIn: [Anabel Amarachukwu](www.linkedin.com/in/anabel-amarachukwu-5a27662a5)
 
 
 
