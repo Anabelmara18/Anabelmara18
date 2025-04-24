@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amarachi!
 
-🎓 I'm an aspiring Data Analyst passionate about transforming data into powerful insights.  
+🎓 I'm a Data Analyst passionate about transforming data into powerful insights.  
 🛠️ Tools I use: Excel | SQL | Power BI | Python  
 📊 Currently building portfolio projects in fintech, e-commerce, and healthcare.  
 🎯 Goal: Land my first data analysis role and keep learning every day!  
